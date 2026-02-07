@@ -1,4 +1,138 @@
 # Links
+
+# Cybersecurity & Pentest Knowledge Base
+
+## 📚 Оглавление
+
+* [CTF и обучение](#ctf-и-обучение)
+* [OSINT и разведка](#osint-и-разведка)
+* [Веб-безопасность и сканеры](#веб-безопасность-и-сканеры)
+* [Эксплуатация и постэксплуатация](#эксплуатация-и-постэксплуатация)
+* [Active Directory и Windows](#active-directory-и-windows)
+* [Форензика и DFIR](#форензика-и-dfir)
+* [Реверс-инжиниринг и malware](#реверс-инжиниринг-и-malware)
+* [Инструменты и среды](#инструменты-и-среды)
+* [Операционные системы](#операционные-системы)
+* [VPN и безопасность сети](#vpn-и-безопасность-сети)
+* [Бэкапы и операционная гигиена](#бэкапы-и-операционная-гигиена)
+* [Полезные статьи и справочники](#полезные-статьи-и-справочники)
+
+---
+
+## CTF и обучение
+
+* CTFtime — соревнования и рейтинги
+* Hacker101 — бесплатные курсы по веб-безопасности
+* PortSwigger Web Security Academy
+* CryptoHack — практика по криптографии
+* pwn.college, pwnable.kr
+* Crackmes.one — реверс-инжиниринг
+* Stepik: курс по кибербезопасности
+
+## OSINT и разведка
+
+* ClatScope — универсальный OSINT
+* Ghoulbond — OSINT и сканирование
+* DeepFindMe — цифровой след
+* Th3inspector — домены и IP
+* Amass — сбор внешней поверхности
+
+## Веб-безопасность и сканеры
+
+* Open-source web scanners
+* Commix — command injection
+* AdminPBuster — поиск админок
+* SpiderSuite — web crawler
+* Zphisher — фишинг (educational)
+
+## Эксплуатация и постэксплуатация
+
+* Metasploit Framework
+* Cobalt Strike / Merlin / Koadic
+* Krbrelayx — Kerberos relay
+* DCOMUploadExec — lateral movement
+* SploitScan — поиск эксплойтов
+
+## Active Directory и Windows
+
+* Escalatoria — повышение привилегий Linux
+* JumpServer — PAM
+* Chrome App-Bound Encryption bypass
+* AMSI Bypass PowerShell
+
+## Форензика и DFIR
+
+* forensictools
+* Digler — disk forensics
+* PCredz — извлечение кредов из трафика
+* Photo Forensics
+* Malware Forensics — Info-Savvy
+
+## Реверс-инжиниринг и malware
+
+* Ghidra, GhidraGPT
+* Cutter (rizin)
+* dnSpy
+* Malware-collection
+* Vmware-exploitation
+
+## Инструменты и среды
+
+* Kali Linux
+* Burp Suite
+* Wireshark
+* Docker / Docker Compose
+* VirtualBox
+* Ghidra
+* VirusTotal
+
+## Операционные системы
+
+### Windows
+
+* C:/Windows — системные файлы
+* Program Files / (x86)
+* Users
+* Temp и PerfLogs
+
+### Linux
+
+* /bin, /sbin
+* /etc
+* /home, /root
+* /proc, /sys
+* /var, /tmp
+
+## VPN и безопасность сети
+
+* WireGuard
+* Mullvad / Proton / IVPN
+* Kill Switch
+* HTTPS-Only
+* 2FA
+
+## Бэкапы и операционная гигиена
+
+* Правило 3-2-1
+* BorgBackup
+* Rsync + cold storage
+* Регулярное тестирование восстановления
+
+## Полезные статьи и справочники
+
+* Pentest-Wiki
+* PayloadsAllTheThings (XXE)
+* Чемоданчик пентестера (Habr)
+* Linux Commands Cheat Sheet
+* Kali Linux Docs
+
+---
+
+*Документ структурирован для удобной навигации. Все разделы доступны через оглавление.*
+
+
+
+
 https://ctftime.org/
 
 GitHub - Hacker0x01/hacker101: Source code for Hacker101.com - a free online web and mobile security class.
