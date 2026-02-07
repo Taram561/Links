@@ -1,0 +1,7 @@
+https://flathub.org/setup/Debian
+https://linux.die.net/man/1/gdb
+https://www.opennet.ru/man.shtml?topic=bash
+https://ctfnews.ru/literature/
+https://owasp.org/
+https://devhints.io/
+https://devdocs.io/
