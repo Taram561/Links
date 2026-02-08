@@ -133,6 +133,13 @@
 
 
 
+Metasploit? Руководство для начинающих
+https://habr.com/ru/companies/varonis/articles/528578/
+https://docs.metasploit.com/docs/using-metasploit/index.html
+
+
+
+
 https://ctftime.org/
 
 GitHub - Hacker0x01/hacker101: Source code for Hacker101.com - a free online web and mobile security class.
