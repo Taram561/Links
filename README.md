@@ -136,8 +136,8 @@
 Metasploit? Руководство для начинающих
 https://habr.com/ru/companies/varonis/articles/528578/
 https://docs.metasploit.com/docs/using-metasploit/index.html
-
-
+https://spy-soft.net/how-to-use-metasploit/
+https://labex.io/ru/tutorials/nmap-how-to-leverage-metasploit-exploit-techniques-418236
 
 
 https://ctftime.org/
