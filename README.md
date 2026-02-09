@@ -4,6 +4,7 @@
 
 ## 📚 Оглавление
 
+* [Инструменты](#Инструменты)
 * [CTF и обучение](#ctf-и-обучение)
 * [OSINT и разведка](#osint-и-разведка)
 * [Веб-безопасность и сканеры](#веб-безопасность-и-сканеры)
@@ -132,6 +133,7 @@
 
 
 
+## Инструменты
 
 Metasploit Руководство для начинающих
 https://habr.com/ru/companies/varonis/articles/528578/
@@ -163,9 +165,9 @@ https://kali.tools/?p=1407
 https://habr.com/ru/articles/735866/
 https://mksegment.ru/b/rabota-wireshark-v-kali-linux-podrobnoe-rukovodstvo
 
+https://github.com/n0b0dyCN/RedisModules-ExecuteCommand
 
-
-
+https://drmnsamoliu.github.io/video.html
 
 https://ctftime.org/
 
@@ -8723,8 +8725,6 @@ _Расширенный список:_
 6.
 deps
 herabrin654:exk45nCFG6J
-gth
-exk45nCFG6J
 Ссылка на официальную документацию: [https://nmap.org/man/ru/](https://nmap.org/man/ru/)
 
 
