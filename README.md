@@ -9,6 +9,19 @@
 
 ## Инструменты
 
+1. Kali Linux;
+2. Burp;
+244
+3. dnSpy;
+4. Wireshark;
+5. Virtualbox;
+6. Visual Studio Code;
+7. Docker, Docker Compose;
+8. Mtpass;
+9. VirusTotal;
+10. Process Hacker;
+11. Ghidra.
+
 ## Metasploit Руководство для начинающих
 * https://habr.com/ru/companies/varonis/articles/528578/
 * https://docs.metasploit.com/docs/using-metasploit/index.html
@@ -73,12 +86,8 @@ Amsi-Bypass-Powershell — этот репозиторий содержит не
 https://github.com/mishakorzik/Free-Proxy
 Free-Proxy — предоставляет обширный список прокси-серверов для различных задач.
 
-
-
 https://github.com/mschwartz/assembly-tutorial
 Assembly-tutorial — учебное руководство по программированию на ассемблере для архитектуры AMD64/Intel 64.
-
-
 
 https://github.com/Drew-Alleman/DataSurgeon
 DataSurgeon — это универсальный инструмент, предназначенный для реагирования на инциденты, защиты от потери данных, тестирования на проникновение и решения задач CTF. 
@@ -158,7 +167,8 @@ https://github.com/GeenStack/Escalatoria?ysclid=mhl2lfzt7m727736985
 
 https://t.me/CyberSachok/2750
 
-WEB: https://www.youtube.com/watch?v=MFYKmPESSO4&list=PLLguubeCGWoaGFEDzduGmBhEgZ62p-Jqv
+## WEB: 
+https://www.youtube.com/watch?v=MFYKmPESSO4&list=PLLguubeCGWoaGFEDzduGmBhEgZ62p-Jqv
 https://www.youtube.com/watch?v=aP_CsSV57Nk&t=1s
 https://www.youtube.com/live/mU0hu_hvinM?si=kgQg9HLFT-fKzAYw
 https://www.youtube.com/live/IQTJOxzhOWk?si=kgQc8yXpN_hoYQVs
@@ -167,28 +177,24 @@ https://www.youtube.com/live/_sL1ZeSnywU?si=usL2QaqMXxsA2z_W
 https://www.youtube.com/live/u0fA4IS4oK4?si=vP6ZEBPeVb0S0GOi
 https://www.youtube.com/live/vMYbZ_jZJfk?si=-1-UKuZNb2R7tdiW
 https://www.youtube.com/live/lNJLrCi6kPw?si=U1Irc6f-jBQGWvLU
-PWN: https://www.youtube.com/watch?v=pNvpCpW6Y_U&list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm
-REVERSE: https://www.youtube.com/watch?v=p0u_bsdZCiY&list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk
-CRYPTO: https://youtu.be/BSYDEq1ky80?si=whN29yt5g4odogid
+
+## PWN: 
+https://www.youtube.com/watch?v=pNvpCpW6Y_U&list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm
+
+## REVERSE: 
+https://www.youtube.com/watch?v=p0u_bsdZCiY&list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk
+
+## CRYPTO: 
+https://youtu.be/BSYDEq1ky80?si=whN29yt5g4odogid
 https://youtu.be/yAkNfGAc_zI?si=0Ac05zxdnRTyRykB
-FORENSICS: https://youtu.be/7lNTMNITcSA
+
+## FORENSICS: 
+https://youtu.be/7lNTMNITcSA
 https://youtu.be/MnQzJSmtYSo
 https://youtu.be/aj68BU-Vs_U
 https://youtu.be/WWUX-8SKYiQ
 
-Инструменты:
-1. Kali Linux;
-2. Burp;
-244
-3. dnSpy;
-4. Wireshark;
-5. Virtualbox;
-6. Visual Studio Code;
-7. Docker, Docker Compose;
-8. Mtpass;
-9. VirusTotal;
-10. Process Hacker;
-11. Ghidra.
+
 Материалы для подготовки
 1. OWASP. Cross-Site Request Forgery (CSRF): https://owasp.org/www-community/attacks/csrf.
 2. Codedokode. Безопасность — материалы репозитория Pasta: https://github.com/codedokode/pasta/tree/master/security.
