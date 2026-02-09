@@ -10,35 +10,35 @@
 ## Инструменты
 
 ## Metasploit Руководство для начинающих
-https://habr.com/ru/companies/varonis/articles/528578/
-https://docs.metasploit.com/docs/using-metasploit/index.html
-https://spy-soft.net/how-to-use-metasploit/
-https://labex.io/ru/tutorials/nmap-how-to-leverage-metasploit-exploit-techniques-418236
-https://help.metasploit.com/Content/home.html
-https://www.kali.org/tools/metasploit-framework/
+* https://habr.com/ru/companies/varonis/articles/528578/
+* https://docs.metasploit.com/docs/using-metasploit/index.html
+* https://spy-soft.net/how-to-use-metasploit/
+* https://labex.io/ru/tutorials/nmap-how-to-leverage-metasploit-exploit-techniques-418236
+* https://help.metasploit.com/Content/home.html
+* https://www.kali.org/tools/metasploit-framework/
 
 ## Как использовать Hydra 
-https://skyeng.ru/it-industry/it/kak-ispolzovat-hydra-v-kali-linux-poshagovoye-rukovodstvo/
-https://kali.tools/?p=1847
-https://www.kali.org/tools/hydra/
-https://labex.io/ru/tutorials/kali-kali-password-attacks-with-hydra-552296
+* https://skyeng.ru/it-industry/it/kak-ispolzovat-hydra-v-kali-linux-poshagovoye-rukovodstvo/
+* https://kali.tools/?p=1847
+* https://www.kali.org/tools/hydra/
+* https://labex.io/ru/tutorials/kali-kali-password-attacks-with-hydra-552296
 
 ## Как использовать Nmap
-https://nmap.org/man/ru/
-https://kali.tools/?p=1317
-https://www.kali.org/tools/nmap/
+* https://nmap.org/man/ru/
+* https://kali.tools/?p=1317
+* https://www.kali.org/tools/nmap/
 
 ## Как использовать BurpSuit
-https://www.kali.org/tools/burpsuite/
-https://kali.tools/?p=1589
-https://labex.io/ru/tutorials/kali-kali-web-testing-with-burp-suite-552302
+* https://www.kali.org/tools/burpsuite/
+* https://kali.tools/?p=1589
+* https://labex.io/ru/tutorials/kali-kali-web-testing-with-burp-suite-552302
 
 ## Как использовать Wireshark
 
-*https://www.kali.org/tools/wireshark/
-*https://kali.tools/?p=1407
-*https://habr.com/ru/articles/735866/
-*https://mksegment.ru/b/rabota-wireshark-v-kali-linux-podrobnoe-rukovodstvo
+* https://www.kali.org/tools/wireshark/
+* https://kali.tools/?p=1407
+* https://habr.com/ru/articles/735866/
+* https://mksegment.ru/b/rabota-wireshark-v-kali-linux-podrobnoe-rukovodstvo
 
 * https://github.com/n0b0dyCN/RedisModules-ExecuteCommand
 
