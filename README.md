@@ -5,6 +5,9 @@
 ## 📚 Оглавление
 
 * [Инструменты](#Инструменты)
+* [Списки](#Списки)
+* [ИИ](#ИИ)
+* [Обучение](#Обучение)
 
 
 ## Инструменты
@@ -53,21 +56,35 @@
 * https://habr.com/ru/articles/735866/
 * https://mksegment.ru/b/rabota-wireshark-v-kali-linux-podrobnoe-rukovodstvo
 
-* https://github.com/n0b0dyCN/RedisModules-ExecuteCommand
+#Доп
 
+* https://github.com/n0b0dyCN/RedisModules-ExecuteCommand
 * https://drmnsamoliu.github.io/video.html
 
-https://github.com/hasanfirnas/symbiote
-Symbiote — это инструмент социальной инженерии, предназначенный для создания фишинг-страницы и захвата изображений с веб-камеры. 
 
-Запрашивая разрешение камеры на устройстве жертвы, этот скрипт может делать снимки скрытно.
+Symbiote — это инструмент социальной инженерии, предназначенный для создания фишинг-страницы и захвата изображений с веб-камеры. Запрашивая разрешение камеры на устройстве жертвы, этот скрипт может делать снимки скрытно. https://github.com/hasanfirnas/symbiote
 
-https://github.com/cristianzsh/forensictools
-Forensictools — это набор инструментов, разработанный для цифровой криминалистики и предлагающий широкий спектр возможностей. 
-Его основная цель — упростить создание виртуальной среды для проведения криминалистических экспертиз.
+Forensictools — это набор инструментов, разработанный для цифровой криминалистики и предлагающий широкий спектр возможностей. Его основная цель — упростить создание виртуальной среды для проведения криминалистических экспертиз. https://github.com/cristianzsh/forensictools
 
-https://github.com/Clats97/ClatScope
-ClatScope Info Tool — универсальная утилита OSINT для получения геолокационных данных, DNS, WHOIS, номеров телефонов, адресов электронной почты, имён пользователей, данных о людях, информации о надёжности паролей, утечке данных и многом другом.
+ClatScope Info Tool — универсальная утилита OSINT для получения геолокационных данных, DNS, WHOIS, номеров телефонов, адресов электронной почты, имён пользователей, данных о людях, информации о надёжности паролей, утечке данных и многом другом. https://github.com/Clats97/ClatScope
+
+DataSurgeon — это универсальный инструмент, предназначенный для реагирования на инциденты, защиты от потери данных, тестирования на проникновение и решения задач CTF.  Он позволяет извлекать различные типы конфиденциальной информации, включая электронные письма, номера телефонов, хэши, кредитные карты, URL-адреса, IP-адреса, MAC-адреса, записи DNS SRV и многое другое! https://github.com/Drew-Alleman/DataSurgeon
+
+
+
+
+
+
+## Списки
+
+Amsi-Bypass-Powershell — этот репозиторий содержит несколько методов обхода / предотвращения сканирования антивирусным ПО (AMSI) https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
+
+Free-Proxy — предоставляет обширный список прокси-серверов для различных задач. https://github.com/mishakorzik/Free-Proxy
+
+Awesome-Cybersecurity-Datasets — подготовленный список потрясающих наборов данных по кибербезопасности. https://github.com/shramos/Awesome-Cybersecurity-Datasets
+
+Open-source-web-scanners — список сканеров веб-безопасности с открытым исходным кодом на GitHub и GitLab, упорядоченный по количеству звёзд. https://github.com/psiinon/open-source-web-scanners
+
 
 
 
@@ -78,26 +95,11 @@ https://ctftime.org/
 GitHub - Hacker0x01/hacker101: Source code for Hacker101.com - a free online web and mobile security class.
 https://github.com/Hacker0x01/hacker101
 
-
-
-https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
-Amsi-Bypass-Powershell — этот репозиторий содержит несколько методов обхода / предотвращения сканирования антивирусным ПО (AMSI)
-
-https://github.com/mishakorzik/Free-Proxy
-Free-Proxy — предоставляет обширный список прокси-серверов для различных задач.
-
 https://github.com/mschwartz/assembly-tutorial
 Assembly-tutorial — учебное руководство по программированию на ассемблере для архитектуры AMD64/Intel 64.
 
-https://github.com/Drew-Alleman/DataSurgeon
-DataSurgeon — это универсальный инструмент, предназначенный для реагирования на инциденты, защиты от потери данных, тестирования на проникновение и решения задач CTF. 
-Он позволяет извлекать различные типы конфиденциальной информации, включая электронные письма, номера телефонов, хэши, кредитные карты, URL-адреса, IP-адреса, MAC-адреса, записи DNS SRV и многое другое!
 
-https://github.com/shramos/Awesome-Cybersecurity-Datasets
-Awesome-Cybersecurity-Datasets — подготовленный список потрясающих наборов данных по кибербезопасности.
 
-https://github.com/psiinon/open-source-web-scanners
-Open-source-web-scanners — список сканеров веб-безопасности с открытым исходным кодом на GitHub и GitLab, упорядоченный по количеству звёзд.
 
 https://github.com/deepinstinct/DCOMUploadExec
 продвинутая техника бокового перемещения для загрузки и выполнения пользовательских полезных нагрузок на удаленных компьютерах.
@@ -168,31 +170,31 @@ https://github.com/GeenStack/Escalatoria?ysclid=mhl2lfzt7m727736985
 https://t.me/CyberSachok/2750
 
 ## WEB: 
-https://www.youtube.com/watch?v=MFYKmPESSO4&list=PLLguubeCGWoaGFEDzduGmBhEgZ62p-Jqv
-https://www.youtube.com/watch?v=aP_CsSV57Nk&t=1s
-https://www.youtube.com/live/mU0hu_hvinM?si=kgQg9HLFT-fKzAYw
-https://www.youtube.com/live/IQTJOxzhOWk?si=kgQc8yXpN_hoYQVs
-https://www.youtube.com/live/-SbBD7RRSEM?si=rQV4vOtA0E-g4cEw
-https://www.youtube.com/live/_sL1ZeSnywU?si=usL2QaqMXxsA2z_W
-https://www.youtube.com/live/u0fA4IS4oK4?si=vP6ZEBPeVb0S0GOi
-https://www.youtube.com/live/vMYbZ_jZJfk?si=-1-UKuZNb2R7tdiW
-https://www.youtube.com/live/lNJLrCi6kPw?si=U1Irc6f-jBQGWvLU
+* https://www.youtube.com/watch?v=MFYKmPESSO4&list=PLLguubeCGWoaGFEDzduGmBhEgZ62p-Jqv
+* https://www.youtube.com/watch?v=aP_CsSV57Nk&t=1s
+* https://www.youtube.com/live/mU0hu_hvinM?si=kgQg9HLFT-fKzAYw
+* https://www.youtube.com/live/IQTJOxzhOWk?si=kgQc8yXpN_hoYQVs
+* https://www.youtube.com/live/-SbBD7RRSEM?si=rQV4vOtA0E-g4cEw
+* https://www.youtube.com/live/_sL1ZeSnywU?si=usL2QaqMXxsA2z_W
+* https://www.youtube.com/live/u0fA4IS4oK4?si=vP6ZEBPeVb0S0GOi
+* https://www.youtube.com/live/vMYbZ_jZJfk?si=-1-UKuZNb2R7tdiW
+* https://www.youtube.com/live/lNJLrCi6kPw?si=U1Irc6f-jBQGWvLU
 
 ## PWN: 
-https://www.youtube.com/watch?v=pNvpCpW6Y_U&list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm
+* https://www.youtube.com/watch?v=pNvpCpW6Y_U&list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm
 
 ## REVERSE: 
-https://www.youtube.com/watch?v=p0u_bsdZCiY&list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk
+* https://www.youtube.com/watch?v=p0u_bsdZCiY&list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk
 
 ## CRYPTO: 
-https://youtu.be/BSYDEq1ky80?si=whN29yt5g4odogid
-https://youtu.be/yAkNfGAc_zI?si=0Ac05zxdnRTyRykB
+* https://youtu.be/BSYDEq1ky80?si=whN29yt5g4odogid
+* https://youtu.be/yAkNfGAc_zI?si=0Ac05zxdnRTyRykB
 
 ## FORENSICS: 
-https://youtu.be/7lNTMNITcSA
-https://youtu.be/MnQzJSmtYSo
-https://youtu.be/aj68BU-Vs_U
-https://youtu.be/WWUX-8SKYiQ
+* https://youtu.be/7lNTMNITcSA
+* https://youtu.be/MnQzJSmtYSo
+* https://youtu.be/aj68BU-Vs_U
+* https://youtu.be/WWUX-8SKYiQ
 
 
 Материалы для подготовки
